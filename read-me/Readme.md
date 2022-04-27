@@ -1,6 +1,6 @@
 # Read-Me :eyeglasses:
 
-**Projeto **
+** Projeto **
 
 Esse projeto foi feito durante o curso ProgBr fullStack junto com o professor igor
 
